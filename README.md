@@ -3,3 +3,4 @@ A lightweight swap router for the Base network, enabling efficient ERC-20 token 
 chore: initialize swap router
 feat: add router contract
 feat: implement token swap
+feat: support multi-hop routing
