@@ -4,3 +4,4 @@ chore: initialize swap router
 feat: add router contract
 feat: implement token swap
 feat: support multi-hop routing
+feat: add slippage protection
