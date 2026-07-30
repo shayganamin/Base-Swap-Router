@@ -7,3 +7,4 @@ feat: support multi-hop routing
 feat: add slippage protection
 fix: handle failed transactions
 refactor: optimize routing logic
+test: add router unit tests
